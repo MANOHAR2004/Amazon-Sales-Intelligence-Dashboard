@@ -1,9 +1,6 @@
 # 🛒 Amazon Sales Intelligence Dashboard
 ### Excel-Based Business Analytics Project | Career247 Week 03
 
-![Dashboard Preview](<img width="1612" height="702" alt="image" src="https://github.com/user-attachments/assets/ed7b05aa-659e-4a98-a007-26b956da71e8" />
->
-)
 ![Dashboard Preview](<img width="1575" height="642" alt="image" src="https://github.com/user-attachments/assets/639b8b7c-a0b0-4d17-8916-8fc46d05c8de" />
 
 )
@@ -26,7 +23,7 @@ This project simulates a real-world Business Analyst task at **Amazon Retail Par
 ## 🎯 Objectives
 
 - Clean and standardize raw sales data for analysis
-- Engineer calculated features for deeper insights
+- Engineered calculated features for deeper insights
 - Connect data across multiple sheets using INDEX MATCH
 - Summarize data using Pivot Tables
 - Design an interactive dashboard with KPI cards and slicers
@@ -133,8 +130,8 @@ MBA (Marketing) | IMS DAVV Indore
 Aspiring Data Analyst & Business Analyst
 
 📧 Connect with me on [LinkedIn](#)  
-💻 More projects on [GitHub](#)
+💻 More projects on [GitHub](MANOHAR2004)
 
 ---
 
-*This project was completed as part of the Career247 Excel Analytics Programme — Week 03.*
+*This project was independently completed as part of my Data Analytics learning journey.*
