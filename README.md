@@ -1,11 +1,15 @@
 # 🛒 Amazon Sales Intelligence Dashboard
 ### Excel-Based Business Analytics Project | Career247 Week 03
 
-![Dashboard Preview](<img width="1575" height="642" alt="image" src="https://github.com/user-attachments/assets/4d1f81ba-a4ec-4a6b-9864-4842f492e145" />
+![Dashboard Preview](<img width="1612" height="702" alt="image" src="https://github.com/user-attachments/assets/ed7b05aa-659e-4a98-a007-26b956da71e8" />
+>
 )
-![Dashboard Preview](<img width="1612" height="702" alt="image" src="https://github.com/user-attachments/assets/16252004-beeb-4199-b6cd-a8320d234f20" />
+![Dashboard Preview](<img width="1575" height="642" alt="image" src="https://github.com/user-attachments/assets/639b8b7c-a0b0-4d17-8916-8fc46d05c8de" />
+
 )
-![Dashboard Preview](Dashboard_excel.gif)
+![Dashboard Demo](<img width="1131" height="701" alt="Excel_dashboard_demo" src="https://github.com/user-attachments/assets/566fee4b-64c0-430d-ac48-14e20f9c51b9" />
+
+)
 ---
 
 ## 📌 Project Overview
