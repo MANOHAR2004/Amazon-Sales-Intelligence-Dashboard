@@ -51,7 +51,7 @@ This project simulates a real-world Business Analyst task at **Amazon Retail Par
 | 🚀 Fast Deliveries | 32% of delivered orders |
 | 🏆 Top Region | North (₹10,491) |
 | 📦 Top Product | Smartphone (Electronics) |
-| ⚠️ Cancellation Rate | 30% — highest in North region |
+| ⚠️ Cancellation Rate | Overall 30% — highest in North region( 10 cancellation - 45% ) |
 | ⏱️ Avg Delivery Time | 3.76 days overall |
 
 ---
@@ -72,7 +72,7 @@ Instead of manually searching ProductMaster and CustomerMaster sheets, INDEX MAT
 
 **Q5. Recommendations to improve delivery performance?**
 - Central and East have the highest average delivery times (4.20 and 4.25 days) → prioritize fulfillment partners in these regions
-- 30% cancellation rate is critically high → investigate root causes by region
+- 30% overall cancellation rate is critically high → investigate root causes by region
 - Only 32% fast deliveries → set operational target of 60%+
 - DHL appears frequently in cancelled orders → audit DHL fulfillment performance
 
@@ -128,7 +128,7 @@ Amazon-Sales-Intelligence-Dashboard/
 MBA (Marketing) | IMS DAVV Indore  
 Aspiring Data Analyst & Business Analyst
 
-📧 Connect with me on [LinkedIn](#)  
+📧 Connect with me on [LinkedIn](www.linkedin.com/in/manohar-choudhary)  
 💻 More projects on [GitHub](MANOHAR2004)
 
 ---
