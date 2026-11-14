@@ -11,8 +11,7 @@
 
 ## 📌 Project Overview
 
-This project simulates a real-world Business Analyst task at **Amazon Retail Partners**. Raw sales data of 100 transactions was transformed into a fully interactive Excel dashboard using data cleaning, cross-sheet lookups, Pivot Tables, KPI cards, and dynamic slicers.
-
+This project simulates a real-world Business Analyst task at **Amazon Retail Partners**. Raw sales data of 100 transactions was transformed into a fully interactive Excel dashboard using data cleaning, cross-sheet lookups, Pivot Tables, KPI cards, and dynamic slicers. Data in this project  is a practice dataset of 100 rows.
 **Role:** Reporting Analyst  
 **Tool:** Microsoft Excel  
 **Dataset:** 100 Amazon Sales Transactions (2023)  
